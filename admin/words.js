@@ -14,6 +14,18 @@ systemDictionary = {
 		"pl": "Ustawienia adaptera dla muenchen-navigator",
 		"zh-cn": "muenchen-navigator的适配器设置"
 	},
+	"Station": {
+		"en": "Station",
+		"de": "Bahnhof",
+		"ru": "станция",
+		"pt": "Estação",
+		"nl": "Station",
+		"fr": "Station",
+		"it": "Stazione",
+		"es": "Estación",
+		"pl": "Stacja",
+		"zh-cn": "站"
+	},
 	"option1": {
 		"en": "option1",
 		"de": "Option 1",
