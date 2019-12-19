@@ -36,8 +36,7 @@ class MuenchenNavigator extends utils.Adapter {
 
 		// The adapters config (in the instance object everything under the attribute "native") is accessible via
 		// this.config:
-		this.log.info("config option1: " + this.config.option1);
-		this.log.info("config option2: " + this.config.option2);
+		this.log.info("config station: " + this.config.station);
 
 		/*
 		For every state in the system there has to be also an object of type state
